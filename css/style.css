@@ -10,7 +10,7 @@ body {
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
-  font-size: 100%;
+  font-size: 120px;
 }
 
 .wrapper {
@@ -25,26 +25,36 @@ body {
 }
 
 h1, h2 {
-  font-family: 'Gabriela', serif;
-  color: #fff;
+  font-family: 'Gabriela',serif;
+  color: white;
 }
 
 h1 {
-  font-size: 3.5em;
+  font-size: 40px;
   margin-bottom: 0;
+  color:black;
 }
 
 h2 {
-  font-size: 1.5em;
+  font-size: 1.5pc;
   margin-top: .5em;
+  color:black;
 }
 
 h3 {
   font-family: 'Gabriela', serif;
-  font-size: 1.5em;
+  font-size: 1.5pc;
   margin-top: .5em;
+  color:black
 }
 
+h4{
+  font-size: 1.5pc;
+  color:black;
+}h5{
+  font-size: 1.5pc;
+  color:black
+}
 img {
   max-width: 100%;
   width: 100%;
@@ -52,7 +62,7 @@ img {
 }
 
 p {
-  font-size: 1em;
+  font-size: 1.5pc;
 }
 
 a {
@@ -75,10 +85,10 @@ a:hover {
     font-size: 120%;
   }
   h1 {
-    font-size: 2.5em;
+    font-size: 0.5px;
   }
   h2 {
-    font-size: 1em;
+    font-size: 0.5px;
   }
   .wrapper {
     width: 95%;
